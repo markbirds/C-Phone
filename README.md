@@ -12,5 +12,10 @@ Height: 52
 Font: Raster Fonts
 Size: 8x12
 
+---
 
+Home Screen
 
+![homeScreen](https://i.ibb.co/t4GyMdm/Capture2.jpg)
+
+Check out wiki for other screenshots!
